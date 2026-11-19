@@ -42,16 +42,16 @@ Após a chuva, uma leitura de **25% ou mais** abre ou mantém o pedido. Entre **
 O `while` mantém o menu aberto, e o `match/case` encaminha a opção digitada. No `case "2"`, o programa valida a leitura, compara o nível com as faixas de risco e atualiza o pedido do bueiro escolhido em `limpeza_pendente`. No fim desse bloco, ele monta a linha `registro_leitura` e a guarda na lista `historico_leituras`. Na opção **3**, um `for` percorre essa lista e mostra as leituras na tela.
 
 
-## 👥 Informações do projeto (FIAP - 1ESPA)
+## Informações do projeto (FIAP - 1ESPA)
 - **Projeto:** Fluxo Seguro (Sistema de Monitoramento Preditivo de Alagamentos)
 - **Desafio:** Global Solution - CitizenTech
 - **Disciplina:** Computational Thinking with Python
 - **Professores:** Edson de Oliveira
 
 
-## 👨‍💻 Integrantes (Grupo Core)
+## Integrantes (Grupo Core)
 • Eduardo Miranda Mororo
 • Flávia Sirahata Hasegava
 • Henrique Nascimento
-• Leandro Rodrigues Barbosa
+• Leandro Rodrigues Barbosa 
 • Victor Krause Esteves
